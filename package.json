@@ -1,6 +1,6 @@
 {
   "name": "gulp-text2json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Gulp plugin for compiling text files into adjacent JSON files that contain the contents of the source files as a JSON encoded strings.",
   "main": "index.js",
   "scripts": {

@@ -35,7 +35,7 @@ describe(pkg.name, function()
 {
 	describe('in buffer mode', function()
 	{
-		it('should json encode the contents of a buffer', setup(function(done, instance, data)
+		it('should json encode the file.contents buffer', setup(function(done, instance, data)
 		{
 			instance.once('data', function(file)
 			{
