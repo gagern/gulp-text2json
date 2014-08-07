@@ -1,0 +1,42 @@
+{
+  "name": "gulp-text2json",
+  "version": "0.1.0",
+  "description": "A Gulp plugin for compiling text files into adjacent JSON files that contain the contents of the source files as a JSON encoded strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "prepublish": "gulp default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlueJeansAndRain/gulp-text2json.git"
+  },
+  "keywords": [
+    "json",
+    "text",
+    "convert",
+    "compile",
+    "encode",
+    "gulpplugin"
+  ],
+  "author": "Chris Ackerman <bluejeansandrain@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueJeansAndRain/gulp-text2json/issues"
+  },
+  "homepage": "https://github.com/BlueJeansAndRain/gulp-text2json",
+  "devDependencies": {
+    "event-stream": "^3.1.7",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-mocha": "^0.5.2",
+    "gulp-rename": "^1.2.0",
+    "jshint-stylish": "^0.4.0",
+    "should": "^4.0.4",
+    "vinyl": "^0.3.2"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.5.1"
+  }
+}
