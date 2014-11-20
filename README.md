@@ -1,4 +1,4 @@
-# gulp-text2json [![Build Status](https://travis-ci.org/BlueJeansAndRain/gulp-text2json.svg?branch=master)](https://travis-ci.org/BlueJeansAndRain/gulp-text2json)
+# gulp-text2json [![Build Status](https://travis-ci.org/ChrisAckerman/gulp-text2json.svg?branch=master)](https://travis-ci.org/ChrisAckerman/gulp-text2json)
 
 A Gulp plugin for compiling text files into adjacent JSON files that contain the contents of the
 source files as a JSON encoded strings.
